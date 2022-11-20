@@ -1,0 +1,11 @@
+id;nama;kategori;tahun_rilis;harga;stok
+GAME001;Valorant;FPS;2010;900000;39
+GAME002;Cooking Mama;Adventure;2005;50000;44
+GAME003;Temple Run;Fantasy;2009;30000;17
+GAME004;Genshin Impact;Fantasy;2018;500000;23
+GAME005;Dota;Adventure;2000;120000;2
+GAME006;Sudoku;Adventure;1995;5000;3
+GAME007;Solitaire;Action;1995;45000;27
+GAME008;AC Unity;Adventure;2014;430000;5
+GAME009;Piano Tiles;Music;1990;125000;0
+GAME010;Minesweeper;Adventure;1991;1000;0

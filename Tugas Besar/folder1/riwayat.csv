@@ -1,0 +1,15 @@
+game_id;nama;harga;user_id;tahun_beli
+GAME001;Valorant;900000;namaku_ani;2022
+GAME002;Cooking Mama;50000;namaku_ani;2022
+GAME010;Minesweeper;1000;namaku_ani;2022
+GAME010;Minesweeper;1000;namaku_budi;2022
+GAME002;Cooking Mama;50000;namaku_budi;2022
+GAME003;Temple Run;30000;namaku_asih;2022
+GAME003;Temple Run;30000.0;namaku_ani;2022
+GAME007;Solitaire;45000.0;namaku_asih;2022
+GAME007;Solitaire;45000.0;namaku_budi;2022
+GAME007;Solitaire;45000.0;namaku_ani;2022
+GAME005;Dota;120000.0;namaku_ani;2022
+GAME008;AC Unity;430000.0;namaku_ani;2022
+GAME007;Solitaire;45000.0;namaku_kiko;2022
+GAME003;Temple Run;30000.0;namaku_kiko;2022

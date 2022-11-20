@@ -1,0 +1,30 @@
+a
+register - Untuk melakukan registrasi user baru
+ua
+login - Untuk melakukan login ke dalam sistem
+a
+tambah_game - Untuk menambah game yang dijual pada toko
+ua
+list_game_toko - Untuk melihat list game yang dijual pada toko
+a
+ubah_game - Untuk mengubah data deskripsi game (perlu save)
+a
+ubah_stok - Untuk mengubah stok game (perlu save)
+ua
+search_game_at_store - Untuk mencari game di toko
+u
+buy_game - Untuk membeli game pada toko
+u
+list_game - Untuk melihat list game yang anda miliki
+u
+search_my_game - Untuk mencari game yang anda miliki
+ua
+search_game_at_store - Untuk mencari game di toko
+a
+topup - Untuk menambah saldo user
+u
+riwayat - Untuk melihat riwayat pembelian game
+au
+help - Command ini
+ua
+save - Untuk menyimpan perubahan

@@ -1,0 +1,1 @@
+# Ini adalah data yang digunakan untuk pengujian f06 - f09 
