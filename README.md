@@ -7,3 +7,7 @@ Praktikum 01 dan Praktikum 02 : Paradigma Prosedural
 
 Praktikum 03 - Praktikum 05 : Paradigrama Prosedural
 > Menggunakan Bahasa Pemrograman Python
+
+## Tugas Besar
+Menerapkan paradigrama Prosedural pada Command Line Interface
+> Menggunakan Bahasa Pemrograman Python
